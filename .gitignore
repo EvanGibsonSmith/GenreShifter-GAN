@@ -1,0 +1,4 @@
+
+# Ignore fma dataset files and tensors dataset
+fma_small/*
+genre_shifter_tensors_lite/*
