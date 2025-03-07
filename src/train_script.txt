@@ -1,0 +1,1 @@
+python ./train --dataroot datasets\country2rock --n_epochs 50 --decay_epoch 25 --input_nc 1 --output_nc 1 --height 5100 --width 80 --batchSize 1 --cuda

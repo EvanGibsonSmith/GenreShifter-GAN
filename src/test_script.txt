@@ -1,0 +1,1 @@
+python ./test --dataroot datasets\country2rock --input_nc 1 --output_nc 1 --height 5100 --width 80 --batchSize 1 --cuda --generator_A2B "output/country_to_rock/netG_A2B" --generator_B2A "output/country_to_rock/netG_B2A"
