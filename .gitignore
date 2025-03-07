@@ -2,3 +2,4 @@
 # Ignore fma dataset files and tensors dataset
 fma_small/*
 genre_shifter_tensors_lite/*
+mp3_titles_and_genres_small.csv
